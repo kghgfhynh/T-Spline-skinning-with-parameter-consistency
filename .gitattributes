@@ -1,0 +1,14 @@
+* text=auto
+*.cpp   text
+*.h     text
+*.txt   text
+*.vcxproj text eol=crlf
+*.sln   text eol=crlf
+
+# 二进制，禁止转换
+*.3dm   binary
+*.stp   binary
+*.prt   binary
+*.obj   binary
+*.png   binary
+*.jpg   binary

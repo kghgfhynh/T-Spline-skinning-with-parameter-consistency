@@ -1,0 +1,27 @@
+# ========== 白名单：只放行源码和工程文件 ==========
+*
+!*/
+
+# C++ 源码
+!*.cpp
+!*.c
+!*.h
+!*.hpp
+!*.inl
+
+# 工程与构建配置
+!*.sln
+!*.vcxproj
+!*.vcxproj.filters
+!*.props
+!*.targets
+!CMakeLists.txt
+!*.cmake
+
+# 文档
+!*.md
+!README*
+!LICENSE*
+!.gitignore
+!.gitattributes
+

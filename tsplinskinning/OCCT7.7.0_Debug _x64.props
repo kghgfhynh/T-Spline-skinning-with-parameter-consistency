@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <IncludePath>D:\OPENCASCADE-7.7.0-vc14-64\opencascade-7.7.0\inc;D:\OPENCASCADE-7.7.0-vc14-64\product\freeimage-3.17.0-vc14-64\include;D:\OPENCASCADE-7.7.0-vc14-64\product\freetype-2.5.5-vc14-64\include;D:\OPENCASCADE-7.7.0-vc14-64\product\tcltk-86-64\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\OPENCASCADE-7.7.0-vc14-64\build\win64\vc14\libd;D:\OPENCASCADE-7.7.0-vc14-64\product\freeimage-3.17.0-vc14-64\lib;D:\OPENCASCADE-7.7.0-vc14-64\product\freetype-2.5.5-vc14-64\lib;D:\OPENCASCADE-7.7.0-vc14-64\product\tcltk-86-64\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <Link>
+      <AdditionalDependencies>FreeImage.lib;FreeImagePlus.lib;DRAWEXE.lib;ExpToCasExe.lib;TKBin.lib;TKBinL.lib;TKBinTObj.lib;TKBinXCAF.lib;TKBO.lib;TKBool.lib;TKBRep.lib;TKCAF.lib;TKCDF.lib;TKDCAF.lib;TKDraw.lib;TKernel.lib;TKExpress.lib;TKFeat.lib;TKFillet.lib;TKG2d.lib;TKG3d.lib;TKGeomAlgo.lib;TKGeomBase.lib;TKHLR.lib;TKIGES.lib;TKLCAF.lib;TKMath.lib;TKMesh.lib;TKMeshVS.lib;TKOffset.lib;TKOpenGl.lib;TKOpenGlTest.lib;TKPrim.lib;TKQADraw.lib;TKRWMesh.lib;TKService.lib;TKShHealing.lib;TKStd.lib;TKStdL.lib;TKSTEP.lib;TKSTEP209.lib;TKSTEPAttr.lib;TKSTEPBase.lib;TKSTL.lib;TKTObj.lib;TKTObjDRAW.lib;TKTopAlgo.lib;TKTopTest.lib;TKV3d.lib;TKVCAF.lib;TKViewerTest.lib;TKVRML.lib;TKXCAF.lib;TKXDE.lib;TKXDECascade.lib;TKXDEDRAW.lib;TKXDEIGES.lib;TKXDESTEP.lib;TKXMesh.lib;TKXml.lib;TKXmlL.lib;TKXmlTObj.lib;TKXmlXCAF.lib;TKXSBase.lib;TKXSDRAW.lib;freetype.lib;itclstub40.lib;tcl86.lib;tclstub86.lib;tk86.lib;tkstub86.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>
