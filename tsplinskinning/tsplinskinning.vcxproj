@@ -135,10 +135,10 @@
     <ClCompile Include="CustomOptimizer.cpp" />
     <ClCompile Include="InterpolationError.cpp" />
     <ClCompile Include="InterpolationError.h" />
-    <ClCompile Include="main3_repara.cpp" />
+    <ClCompile Include="main2_repara.cpp" />
     <ClCompile Include="mainguidetest.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="main1.cpp" />
+    <ClCompile Include="main1__fit_repara.cpp" />
     <ClCompile Include="meshcurvature.cpp" />
     <ClCompile Include="miantest_stp.cpp" />
     <ClCompile Include="model1.cpp" />

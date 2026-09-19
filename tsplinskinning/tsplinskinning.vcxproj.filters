@@ -45,7 +45,7 @@
     <ClCompile Include="meshcurvature.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="main1.cpp">
+    <ClCompile Include="main1__fit_repara.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="readstp.cpp">
@@ -60,7 +60,7 @@
     <ClCompile Include="ReparameterizationFunction.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="main3_repara.cpp">
+    <ClCompile Include="main2_repara.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="readfile.cpp">
