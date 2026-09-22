@@ -8,6 +8,7 @@ The method takes a sequence of NURBS cross-sections as input, reconstructs the c
 
 ## Requirements
 
+- C++
 - [OpenNURBS](https://github.com/mcneel/opennurbs)
 - [Eigen](https://eigen.tuxfamily.org/)
 
